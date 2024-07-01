@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AccountancySystem/static/css/main.74f64e9c.css",
+    "main.js": "/AccountancySystem/static/js/main.d68c3c78.js",
+    "static/media/error-404.png": "/AccountancySystem/static/media/error-404.5ffa0d7cefff5d64a7d7.png",
+    "index.html": "/AccountancySystem/index.html",
+    "main.74f64e9c.css.map": "/AccountancySystem/static/css/main.74f64e9c.css.map",
+    "main.d68c3c78.js.map": "/AccountancySystem/static/js/main.d68c3c78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74f64e9c.css",
+    "static/js/main.d68c3c78.js"
+  ]
+}
